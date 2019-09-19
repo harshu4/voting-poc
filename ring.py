@@ -46,6 +46,8 @@ class ring:
         else:
             rslt = x
         return rslt
+# Size Defines the number of People in ring
+# Efficiency Decreases as you increase the size tho security increases 
 
 size = 3
 msg1, msg2 = 'This is ', 'Private'
